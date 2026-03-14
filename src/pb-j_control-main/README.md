@@ -1,8 +1,10 @@
 # PuzzleBot Nonholonomic Control Framework Edited 
 
 Edited and revised by:
-
-
+Carla Elizabeth Regalado Luna      
+Alfredo Garzon Murillo             
+Angel Hernandez Rojas              Jacqueline Sarai Tapia Herrera     
+        
 Five controllers for differential-drive robots with terrain perturbations, Lyapunov stability analysis, phase portraits with sliding surface visualization, and custom trajectory tracking.
 
 Based on: **Ferguson, Donaire, Renton & Middleton (2018)** — *A port-Hamiltonian approach to the control of nonholonomic systems* (arXiv:1801.06954v1).
