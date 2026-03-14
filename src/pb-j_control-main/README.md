@@ -1,6 +1,7 @@
 # PuzzleBot Nonholonomic Control Framework Edited 
 
 Edited and revised by:
+
 Carla Elizabeth Regalado Luna      
 Alfredo Garzon Murillo             
 Angel Hernandez Rojas              Jacqueline Sarai Tapia Herrera     
