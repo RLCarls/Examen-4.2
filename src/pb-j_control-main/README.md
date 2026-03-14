@@ -1,4 +1,4 @@
-# PuzzleBot Nonholonomic Control Framework
+# PuzzleBot Nonholonomic Control Framework Edited 
 
 Five controllers for differential-drive robots with terrain perturbations, Lyapunov stability analysis, phase portraits with sliding surface visualization, and custom trajectory tracking.
 
@@ -39,6 +39,7 @@ ros2 run puzzlebot_control teleop_keyboard
 # Terminal 3 — Open browser
 xdg-open http://localhost:8080
 ```
+In regards to terminal 3, you can use the cmd if you have a web browser installed to your Linux environment. If not just copy the link directly to your computer's web browser.
 
 ## Dashboard (localhost:8080) — 12 Live Charts
 
